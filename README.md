@@ -7,10 +7,9 @@
       <p>- 💞️ I’m looking to collaborate on Humanoid Robots and AMR...</p>
       <p>- 📫 How to reach me <a href="vikashofficial2848@gmail.com">vikashofficial2848@gmail.com</a></p>
       <p>- ⚡ Fun fact: Likes to play chess.</p>
-       <img src="https://camo.githubusercontent.com/7458cd47cc3517598ceaaf72ca2e26618b590d65edeb27a05a8be70c03e41598/68747470733a2f2f7777772e7665726f706f6f6c2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30352f64616e63696e672d726f626f742d322e676966" height="300px" width="400px">
     </span>
     <div class="img1">
-     
+      <img src="https://camo.githubusercontent.com/7458cd47cc3517598ceaaf72ca2e26618b590d65edeb27a05a8be70c03e41598/68747470733a2f2f7777772e7665726f706f6f6c2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30352f64616e63696e672d726f626f742d322e676966" height="300px" width="400px">
     </div>
   </div>
 
@@ -29,7 +28,7 @@
 " width="50px" style="margin: 3px;">
     <img src="https://github.com/user-attachments/assets/9d99bcd9-6092-4672-ab47-b65f053ccaea
 " width="50px" style="margin: 3px;">
-    <img src="https://github.com/user-attachments/assets/0811045a-3659-427c-a68a-7540d848edfb
+    <img src="https://github.com/user-attachments/assets/68dcc5e4-dd11-4716-9e26-972e8d67d48b
 " width="50px" style="margin: 3px;">
   </div>
 </div>
