@@ -28,7 +28,7 @@
 " width="50px" style="margin: 3px;">
     <img src="https://github.com/user-attachments/assets/9d99bcd9-6092-4672-ab47-b65f053ccaea
 " width="50px" style="margin: 3px;">
-    <img src="https://github.com/user-attachments/assets/68dcc5e4-dd11-4716-9e26-972e8d67d48b
+    <img src="![image](https://github.com/user-attachments/assets/96ed71c2-c6be-4bc7-9604-cd7304706316)
 " width="50px" style="margin: 3px;">
   </div>
 </div>
