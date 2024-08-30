@@ -1,15 +1,15 @@
 <h1 align="center">👋 Hi, I’m @Vikash Chauhan</h1>
 <h3 align="center">Project Engineer at Orangewood Labs Inc</h3>
+<img align="right" src="https://camo.githubusercontent.com/7458cd47cc3517598ceaaf72ca2e26618b590d65edeb27a05a8be70c03e41598/68747470733a2f2f7777772e7665726f706f6f6c2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30352f64616e63696e672d726f626f742d322e676966" height="300px" width="400px">
   <div align="left">
       - 👀 I’m interested in 🤖 Robotics:- Manipulator, A.G.V (Automated Guided Vehicle),AMR, Robotic joints, Humanoid robots ...
       - 🌱 I’m currently working as a R&D Project Engineer ...
       - 💞️ I’m looking to collaborate on Humanoid Robots and AMR...
       - 📫 How to reach me <a href="vikashofficial2848@gmail.com">vikashofficial2848@gmail.com</a>
       - ⚡ Fun fact: Likes to play chess.
-    <img align="right" src="https://camo.githubusercontent.com/7458cd47cc3517598ceaaf72ca2e26618b590d65edeb27a05a8be70c03e41598/68747470733a2f2f7777772e7665726f706f6f6c2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30352f64616e63696e672d726f626f742d322e676966" height="300px" width="400px">
   </div>
   <div align="right">
-    <img align="right" src="https://camo.githubusercontent.com/7458cd47cc3517598ceaaf72ca2e26618b590d65edeb27a05a8be70c03e41598/68747470733a2f2f7777772e7665726f706f6f6c2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30352f64616e63696e672d726f626f742d322e676966" height="300px" width="400px">
+    
   </div>
   
 <div class=""> 
