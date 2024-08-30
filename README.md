@@ -16,15 +16,14 @@
   <a href="" margin="3px"><img src="https://github.com/user-attachments/assets/4b6db468-7866-4364-ba6e-15159b615856" width="50px"></a>
 </div>
 
+
+<br>
 <div class=""> 
   <h3>Languages and Tools :</h3>
   <div class="img2" align="center"><img src="" width="50px">
-    <img src="https://github.com/user-attachments/assets/8a4b6757-1908-4524-94c9-82ae1cc88fe2
-" width="50px" margin="3px">
-    <img src="https://github.com/user-attachments/assets/aa15e7c2-fa6b-4954-b34f-5d3aa9889b84
-" width="50px" margin="3px">
-    <img src="https://github.com/user-attachments/assets/9d99bcd9-6092-4672-ab47-b65f053ccaea
-" width="50px" margin="3px">
+    <img src="" width="50px" margin="3px">
+    <img src="https://github.com/user-attachments/assets/29010b6f-1118-457a-89e4-cc199d704d70" width="50px" margin="3px">
+    <img src="https://github.com/user-attachments/assets/663c02ad-b203-4fb4-bf51-dd0de084595a" width="50px" margin="3px">
     <img src="https://github.com/user-attachments/assets/f06272b3-8825-4590-b114-fbc3be52c0b6" width="50px" margin="3px">
   </div>
 </div>
