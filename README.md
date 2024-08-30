@@ -1,5 +1,6 @@
 <h1 align="center">👋 Hi, I’m @Vikash Chauhan</h1>
 <h3 align="center">Project Engineer at Orangewood Labs Inc</h3>
+<br>
 <img align="right" src="https://camo.githubusercontent.com/7458cd47cc3517598ceaaf72ca2e26618b590d65edeb27a05a8be70c03e41598/68747470733a2f2f7777772e7665726f706f6f6c2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30352f64616e63696e672d726f626f742d322e676966" height="300px" width="400px">
   <div align="left">
       <p>- 👀 I’m interested in 🤖 Robotics:- Manipulator, A.G.V (Automated Guided Vehicle),AMR, Robotic joints, Humanoid robots ...</p>
@@ -7,9 +8,6 @@
       <p>- 💞️ I’m looking to collaborate on Humanoid Robots and AMR...</p>
       <p>- 📫 How to reach me <a href="vikashofficial2848@gmail.com">vikashofficial2848@gmail.com</a></p>
       <p>- ⚡ Fun fact: Likes to play chess.</p>
-  </div>
-  <div align="right">
-    
   </div>
   
 <div class=""> 
@@ -27,8 +25,7 @@
 " width="50px" margin="3px">
     <img src="https://github.com/user-attachments/assets/9d99bcd9-6092-4672-ab47-b65f053ccaea
 " width="50px" margin="3px">
-    <img src="![image](https://github.com/user-attachments/assets/96ed71c2-c6be-4bc7-9604-cd7304706316)
-" width="50px" margin="3px">
+    <img src="https://github.com/user-attachments/assets/f06272b3-8825-4590-b114-fbc3be52c0b6" width="50px" margin="3px">
   </div>
 </div>
 
