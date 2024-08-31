@@ -9,14 +9,15 @@
       <p>- 📫 How to reach me <a href="vikashofficial2848@gmail.com">vikashofficial2848@gmail.com</a></p>
       <p>- ⚡ Fun fact: Likes to play ♟️ chess.</p>
   </div>
-  
+  <br>
+  <hr>  
 <div class=""> 
   <h3>Connect with me :</h3>
   <a href="https://www.linkedin.com/in/vikashofficial2848?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BVLIjkvo8Qd2XB4gyZXRvEg%3D%3D" style="margin: 3px;"><img src="https://github.com/user-attachments/assets/69add5a1-8059-4853-8bd1-b1a22b65319f" width="50px"></a>
   <a href="" margin="3px"><img src="https://github.com/user-attachments/assets/4b6db468-7866-4364-ba6e-15159b615856" width="50px"></a>
 </div>
 
-
+<hr>
 <br>
 <div class=""> 
   <h3>Languages Tools and Technologies :</h3>
